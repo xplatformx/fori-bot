@@ -1,5 +1,5 @@
 # Telegram Forwarder Bot
-Telegram Channel Posts Forwarder Bot Based On Words !
+A Telegram Bot to forward posts from Channels Based On Words !
 
 
 1) Create an isolated virtual environment using:
